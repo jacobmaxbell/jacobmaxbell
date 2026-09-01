@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I am an economics student, starting my jounrey by doing projects using R.
+I am an economics student, starting my journey by doing projects using R.
